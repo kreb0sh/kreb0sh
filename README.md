@@ -5,13 +5,13 @@
 
 <p align="center"> 
          
-                             - 🔭 I'm working at **something, idk, nothing too much special** 
+                             - 🔭 I'm working at something, idk, nothing too much special
          
-                             - 🌱 I’m currently learning **Python, and how to be a nice person**
+                             - 🌱 I’m currently learning Python, and how to be a nicer person
   
-                             - 🤝 I’m looking for help with **the life meaning...** 
+                             - 🤝 I’m looking for help with the life meaning... 
 
-                             - 💬 Ask me about **nothing, as i don't know almost nothing** 
+                             - 💬 Ask me about nothing, as i don't know almost nothing
   
 
 <h3 align="center">Languages and Tools:</h3>
