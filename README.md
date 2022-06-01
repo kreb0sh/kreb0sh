@@ -1,17 +1,17 @@
 <h1 align="center">Howdy 👋, I'm kreb!</h1>
-<h3 align="center">an brazillian boy that loves coding and animes! i use arch btw.</h3>
+<h3 align="center">An brazillian boy that loves coding and animes! i use arch btw.</h3>
 
 <p align="left"> <a href="https://twitter.com/krebios" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center"> 
          
-                             - 🔭 I'm working at something, idk, nothing too much special
+                             - 🔭 I love astronomy, and i prefer humanities
          
-                             - 🌱 I’m currently learning Python, and how to be a nicer person
+                             - 🌱 Currently learning python, it's hard but i won't give up LMAO
   
-                             - 🤝 I’m looking for help with the life meaning... 
+                             - 🤝 You can always talk with me on Telegram! @kreb0sh 
 
-                             - 💬 Ask me about nothing, as i don't know almost nothing
+                             - 💬 Feel free to disturb me! I love meeting new ppl!
   
 
 <h3 align="center">Languages and Tools:</h3>
